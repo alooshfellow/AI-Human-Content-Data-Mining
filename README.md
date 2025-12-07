@@ -1,2 +1,1 @@
-# AI-Human-Content-Data-Mining
-Data mining and pattern discovery on AI-generated and human-written content.
+This project applies data mining techniques to analyze and compare textual patterns in AI-generated and human-written content. Using a dataset containing labeled examples of both types of text, the project explores statistical, structural, and linguistic differences to uncover meaningful patterns that can support content classification and detection systems.
